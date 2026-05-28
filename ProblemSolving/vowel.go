@@ -1,4 +1,4 @@
-package problemSolving
+package Problemsolving
 
 import (
 	"fmt"

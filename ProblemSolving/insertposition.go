@@ -25,10 +25,7 @@ func searchInsert(num []int, target int) int {
 func Position() {
 	num := []int{1, 3, 5, 8, 10}
 
-	// value1 := searchInsert(num,12)
-	// fmt.Printf("num 11 insert position value=%d\n", value1)
-	// fmt.Println(searchInsert(num, 2))
-	fmt.Println("ans......", searchInsert(num, 11))
+		fmt.Println("ans......", searchInsert(num, 11))
 	fmt.Println(searchInsert(num, 11))
 }
 

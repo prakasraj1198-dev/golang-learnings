@@ -1,10 +1,10 @@
-package problemSolving
+package Problemsolving
 
 import (
 	"fmt"
 )
 
-func main() {
+func nottvowel() {
 	count := 0
 	input := "hi how you"
 	for i := 0; i < len(input); i++ {
